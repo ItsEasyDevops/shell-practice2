@@ -1,0 +1,22 @@
+- firstname: John
+  lastname: Doe
+  email: john.doe@example.com
+  addresses: #List of addresses 
+  -   addressType: permAddress
+      doorNo: 123
+      street: Main St
+  -   addressType: tempAddress
+      doorNo: 456
+      street: Second St
+
+      
+- firstname: John
+  lastname: Doe
+  email: john.doe@example.com
+  addresses: #List of addresses 
+  -   addressType: permAddress
+      doorNo: 123
+      street: Main St
+  -   addressType: tempAddress
+      doorNo: 456
+      street: Second St

@@ -1,0 +1,17 @@
+{
+  "firstname" : "John",
+  "lastname"  : "Doe",
+  "dob"       : "2000-01-01",
+  "address" : [
+          {
+          "type"    : "perm",
+          "doorNo"  : "123", 
+          "streetNo" : "Main St"
+	   }, 
+	  {
+          "type"    : "temp",
+          "doorNo" : "123", 
+          "streetNo" : "Main St"
+           }
+]
+}
