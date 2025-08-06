@@ -1,0 +1,15 @@
+<student>
+	<firstname>John</firstname>
+	<lastname>Doe</lastname>
+        <DOB>2000-01-01</DOB>
+        <address>
+		<permAddress>
+			<doorNo>123</doorNo>
+			<street>Main St</street>
+		</permAddress>
+		<tempAddress>
+			<doorNo>456</doorNo>
+			<street>Second St</street>
+		</tempAddress>
+	</address>
+</student>
